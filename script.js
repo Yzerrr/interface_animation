@@ -1,3 +1,5 @@
+
+
 var buttonPoint = document.getElementById('button_point');
 var buttonKompas = document.getElementById('button_kompas');
 var buttonTrash = document.getElementById('button_trash');
@@ -22,3 +24,5 @@ function playTrash() {
     video.src = "assets/mp4/map_state_03.mp4";
     console.log('trash');
 }
+
+
